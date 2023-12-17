@@ -14,3 +14,5 @@ Our project aims to critically examine the portrayal of female characters in cin
 To achieve this, we will investigate the differences in commonly used adjectives that appear alongside male or female characters in movie summaries. We will also study the characteristics of female characters across different movie genres, tracing how their portrayals have transformed in line with the rising tide of the feminist movement.
 
 This study is fueled by the increasing societal focus on gender representation in media. By scrutinizing historical and character-level data, we aim to reveal trends in the depiction of women in film, thereby mirroring broader societal shifts.
+
+Our dataset comes from : <iframe src="[https://daviskia.github.io/maps/safety/Bike_Paths.html](https://www.cs.cmu.edu/~ark/personas/)" width="100%" height="400px"></iframe>
