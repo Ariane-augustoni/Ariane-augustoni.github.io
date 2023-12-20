@@ -22,4 +22,4 @@ It is a well known fact that there age differences between actors and actress ag
 
 ![Age difference between males and female actors and actress]({{ 'figures/Age_and_gender.png' | relative_url }})
 
-{% include_relative figures\Age_and_gender.html}
+{% include Age_and_gender.html %}
