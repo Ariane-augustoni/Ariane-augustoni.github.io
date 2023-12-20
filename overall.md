@@ -26,4 +26,3 @@ Age difference between males and females in html
 
 <iframe src="https://ariane-augustoni.github.io/figures/Age_and_gender.html" width="100%" height="400px"></iframe>
 
-#{% include Age_and_gender.html %}
