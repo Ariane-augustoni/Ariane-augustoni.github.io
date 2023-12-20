@@ -24,6 +24,6 @@ It is a well known fact that there age differences between actors and actress ag
 
 Age difference between males and females in html
 
-<iframe src="https://github.com/Ariane-augustoni/Ariane-augustoni.github.io/tree/master/figures/Age_and_gender.html" width="100%" height="400px"></iframe>
+<iframe src="https://ariane-augustoni.github.io/figures/Age_and_gender.html" width="100%" height="400px"></iframe>
 
 #{% include Age_and_gender.html %}
