@@ -4,7 +4,7 @@ title: Evolution of Females in Movies
 subtitle:  
 ---
 
-Now we will deep dive into the history of women's representation in movies. We already learned a lot till we came here. Over all movies together, we can see that there are more male actors than female actresses. But, we do not know whether the number of female characters in movies changed or not. Are there any differences between the female protagonists and male ones? Is there any historical event that the caused a significant change in women representation? 
+Now we will deep dive into the history of women's representation in movies. We already learned a lot till we came here. Over all movies together, we can see that there are more male actors than female actresses. But, we do not know whether the number of female characters in movies changed or not. Are there any differences between the female protagonists and male ones? Is there any historical event that caused a significant change in women's representation? 
 
 So, now we are starting to discover the answers of all these questions together. Are you ready?
 
@@ -12,6 +12,13 @@ Let's start by looking at change in the number of female characters in movie sum
 
 {% include Gender_character_count_10years.html %}
 
+There is not a significant change in the female characters over decades. Female characters constitute only the 30-35% percentage of the protagonists represented in movie summaries. To be sure about our interpretation, we decided to shorten the interval of time within the period. Now, we will look at the data for 5-year periods.
+
+{% include Gender_character_count_5years.html %}
+
+As we can see, the ratio of protagonist females mentioned in stories reached its peak at 62.96% in 1900-1905. When we dig into the factors impacting this increase according to the (https://www.theatlantic.com/entertainment/archive/2016/03/the-forgotten-female-action-stars-of-the-1910s/475635/)
+
+"The proliferation of women in all areas of the film industry during the 1910s—not just as actors, but as screenwriters, theater managers, gossip columnists, film producers, and directors—reflected the increasing number of women in the American workplace, and also the efforts of the vocal and energetic women’s suffrage movement. "
 
 What else do you need?
 
