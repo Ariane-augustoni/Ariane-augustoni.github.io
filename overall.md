@@ -24,7 +24,7 @@ It is a well known fact that there are differences between actors and actresses 
 
 # Womens representation in different genres
 
-Next, we wanted to know how women are represented in different genres. In order to answer this question, we took a look at the twenty biggest genres in our dataset, so the genres where we have most data on actors and actresses in general. Then, we calculated the percentage of women in these genres and the result is shocking: female actresses never make up more than 41.5%, not even in romcoms! And in action movies, the percentage of women falls below 25%. The effect of Genre on the amount of female actresses is highly significant: We perforemd a Chi-Squared test and obtained a P-Value of approximately zero. 
+Next, we wanted to know how women are represented in different genres. In order to answer this question, we took a look at the twenty biggest genres in our dataset, so the genres where we have most data on actors and actresses in general. Then, we calculated the percentage of women in these genres and the result is shocking: female actresses never make up more than 41.5%, not even in romcoms! And in action movies, the percentage of women falls below 25%. This difference in the amount of women in different genres is highly significant: We perforemd a chi-squared test and obtained a p-value of approximately zero. 
 
 {% include Genres_Pink_2.html %}
 
