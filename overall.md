@@ -16,11 +16,15 @@ This study is fueled by the increasing societal focus on gender representation i
 
 Our dataset comes from the CMU [Movie Summary Corpus](https://www.cs.cmu.edu/~ark/personas/)
 
-# Some generals observations
+# Some general observations
 
-It is a well known fact that there age differences between actors and actress age we wanted to test if this is true. On the barplot we can observe it and a t-test was made to check if the difference was significative. A p-value inferior to 0.5 was found indicating that actresses are in average younger than actors.{: .text-justify}
+It is a well known fact that there are differences between actors and actresses ages. We wanted to test if this is true. On the barplot we can observe it and a t-test was made to check if the difference was significative. A p-value inferior to 0.5 was found indicating that actresses are in average younger than actors.
 
 {% include Age_and_gender.html %}
+
+# Womens representation in different genres
+
+Next, we wanted to know how women are represented in different genres. In order to answer this question, we took a look at the twenty biggest genres in our dataset, so the genres where we have most data on actors and actresses in general. Then, we calculated the percentage of women in these genres and the result is shocking: female actresses never make up mroe than 40%, not even in romcoms! 
 
 
 
