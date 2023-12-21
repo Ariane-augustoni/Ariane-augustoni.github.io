@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Movie summaries analysis
+subtitle: Analysis of the words in the summaries of the movie dataset
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Now that we have explored a bit the proportion of women in movies we were wondering how they were described and if the way they were described differed a lot between men and women. To do so we analysed the words of the movie summaries using machine learning on the movie summaries. Once the model was trained we were able to compare words that were more similar to women and others which were more similar to men.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+# Adjectives analysis
 
-### My story
+We extracted the adjectives using pos tagging
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Jobs analysis
+
+# Sentimental analysis
