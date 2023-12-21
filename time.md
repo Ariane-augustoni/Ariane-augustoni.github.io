@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Evolution of Females in Movies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Now we will deep dive into the history of women's representation in movies. We already learned a lot till we came here. Over all movies together, we can see that there are more male actors than female actresses. But, we do not know whether the number of female characters in movies changed or not. Are there any differences between the female protagonists and male ones? Is there any historical event that the caused a significant change in women representation? 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+So, now we are starting to discover the answers of all these questions together. Are you ready?
+
+Let's start by looking at change in the number of female characters in movie summaries over the years. To do so, we have divided time into 10-year periods. 
+
+{% include Gender_character_count_10years.html %}
+
 
 What else do you need?
 
