@@ -24,7 +24,6 @@ navbar-links:
   Overview: "overall"
   Summaries: "summaries"
   Evolution over time: "time"
-  Characters trope: "characters"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - CMU movie dataset: "https://www.cs.cmu.edu/~ark/personas/"
