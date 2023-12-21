@@ -11,7 +11,6 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-{% include Gender_proportion_protagonist.html %}
 
 
 
