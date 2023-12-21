@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Evolution of Females in Movies
+title: Evolution of Females in Movies
 ---
 
 Now we will deep dive into the history of women's representation in movies. We already learned a lot till we came here. Over all movies together, we can see that there are more male actors than female actresses. But, we do not know whether the number of female characters in movies changed or not. Are there any differences between the female protagonists and male ones? Is there any historical event that the caused a significant change in women representation? 
