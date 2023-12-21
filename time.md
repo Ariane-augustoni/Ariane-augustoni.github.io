@@ -16,11 +16,22 @@ There is not a significant change in the female characters over decades. Female 
 
 {% include Gender_character_count_5years.html %}
 
-As we can see, the ratio of protagonist females mentioned in stories reached its peak at 62.96% in 1900-1905. When we dig into the factors impacting this increase according to the (https://www.theatlantic.com/entertainment/archive/2016/03/the-forgotten-female-action-stars-of-the-1910s/475635/)
+As we can see, the number of female characters in summaries reached its peak at 62.96% in 1900-1905. When we dig into the factors impacting this increase according to the (https://www.theatlantic.com/entertainment/archive/2016/03/the-forgotten-female-action-stars-of-the-1910s/475635/)
 
 "The proliferation of women in all areas of the film industry during the 1910s—not just as actors, but as screenwriters, theater managers, gossip columnists, film producers, and directors—reflected the increasing number of women in the American workplace, and also the efforts of the vocal and energetic women’s suffrage movement. "
 
-What else do you need?
+Since we only checked the number of female characters in movie summaries, we are still wondering about the female protagonists. Now, we will look at the change of protagonists over the years. 
+We extract the protagonist of the movie as the character which is mostly mentioned in the summary. 
+
+First, let's look at all times and see whether females or males are mostly represented as the protagonists in movies.
+
+{% include Gender_proportion_protagonist.html %}
+
+Not so surprising, the results are quite similar to the number of female/male character ratios that we showed in the Overview.
+
+but the important question is: Was it always like that or changed over the years? 
+
+
 
 {% include Gender_proportion_protagonist.html %}
 
