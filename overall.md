@@ -34,10 +34,10 @@ Next, we wanted to know if the genre has an impact on that. How are women repres
 
 # Women playing different character types
 
-We were further interested which character types women play most often in the movies. 
+We were further interested which character types women play most often in the movies. We 
 
 
-
+{% include types5.html %}
 
 
 
