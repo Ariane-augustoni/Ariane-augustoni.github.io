@@ -26,6 +26,8 @@ It is a well known fact that there are differences between actors and actresses 
 
 Next, we wanted to know how women are represented in different genres. In order to answer this question, we took a look at the twenty biggest genres in our dataset, so the genres where we have most data on actors and actresses in general. Then, we calculated the percentage of women in these genres and the result is shocking: female actresses never make up mroe than 40%, not even in romcoms! 
 
+{% include Genres_pink.html %}
+
 
 
 
