@@ -8,7 +8,7 @@ Now we will deep dive into the history of women's representation in movies. We a
 
 So, now we are starting to discover the answers of all these questions together. Are you ready?
 
-Let's start by looking at change in the number of female characters in movie summaries over the years. To do so, we have divided time into 10-year periods. 
+Let's start by looking at changes in the number of female characters in movie summaries over the years. To do so, we have divided time into 10-year periods. 
 
 {% include Gender_character_count_10years.html %}
 
@@ -27,9 +27,9 @@ First, let's look at all times and see whether females or males are mostly repre
 
 {% include Gender_proportion_protagonist.html %}
 
-Not so surprising, the results are quite similar to the number of female/male character ratios that we showed in the Overview.
+Not so surprising.. the results are quite similar to the number of female/male character ratios that we showed in the Overview.
 
-but the important question is: Was it always like that or changed over the years? 
+However, we want to know that was it always like that or changed over the years. Our question is "Did the percentage of movies starring female protagonists change over time?"
 
 {% include Gender_protagonist_count_10years.html %}
 
