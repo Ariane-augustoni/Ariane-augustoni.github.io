@@ -58,9 +58,28 @@ In both case it seemed like women were related to words more sentimental and emo
 
 # Sentiment analysis
 <div style="text-align: justify;">
-We did a sentiment analysis to see if there are differences in sentiments between words representing men and words representing women. T
+We did a sentiment analysis to see if there are differences in sentiments between words representing men and words representing women. We separated the data by sentences using spacY and did sentiment analysis on the sentences using nltk vader. Then we extracted the adjectives from the previous parts and associated them with the sentiment of the sentence they were into. 
+The sentiment extracted were either positive negative or neutral. To look whether the sentiments were more associated women or with men we did a ordinary least square regression with the x variable being the difference between cosine correlation for men and women and the y variable the sentiment score. This regression was made for positive, negative and neutral score. However the correlation found between those variables for each sentiment was very small (R-square inferior to 0.05). Thus there is no linear correlation between this difference and the sentiment scores. However we observed that for words with higher differences there were less incertitude in the scores. We then observed the differences between words that had an absolute differences between men and women higher than 0.15.
+Gender difference in positive sentiment scores:
 </div>
 
+{% include pos_and_gender.html %}
 
-Do you want to know more about how the deptiction of women in movies changed over time? You can find out more about this [here](/Women_and_movies/time/).
+<div style="text-align: justify;">
+We notice that women have a higher score. A t-test to check if those difference were significant was made and effectively it is significant !
+Let's now look at the negative score 
+</div>
+
+{% include pos_and_gender.html %}
+
+And the neutral score :
+
+{% include neu_and_gender.html %}
+
+<div style="text-align: justify;">
+In both case men have a statistically significant higher score than women. 
+We have thus shown using the words in the summaries of the movies that women are described differently than men in those movies. 
+But do this depiction evolve over time ?  You can find out more about this [here](/Women_and_movies/time/).
+</div>
+
 
