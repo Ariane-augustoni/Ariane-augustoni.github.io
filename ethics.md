@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movie summaries analysis
+title: Ethical Considerations
 cover-img: /assets/img/ethics_image.jpg
 subtitle: Analysis of the words in the summaries of the movie dataset
 ---
