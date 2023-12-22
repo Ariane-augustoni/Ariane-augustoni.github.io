@@ -29,3 +29,8 @@ When looking at which jobs vary the most between women and men in movies, we can
 
 ![Occupation that are most different between men and women](figures/wordcloud_occupations.png)
 
+
+
+
+Do you want to know more about how the deptiction of women in movies changed over time? You can find out more about this [here](/Women_and_movies/time/).
+
