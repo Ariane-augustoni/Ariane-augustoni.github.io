@@ -31,7 +31,7 @@ Not so surprising, the results are quite similar to the number of female/male ch
 
 but the important question is: Was it always like that or changed over the years? 
 
-
+{% include Gender_protagonist_count_10years.html %}
 
 {% include Gender_proportion_protagonist.html %}
 
