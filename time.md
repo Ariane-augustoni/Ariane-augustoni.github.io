@@ -51,5 +51,11 @@ Now that we know females are less involved than men in movies, we will ask the l
 
 ![Wordcloud](/assets/img/wordcoudsfinal.gif)
 
-The adjectives that represent females in movie summaries change towards the periods. Females are the most present in romance movies and some remarkable adjectives used for females are "beautiful", "young" and "married", we can see them in the word clouds with large fonts in several periods, especially for the last ones. This shows us females are still represented with the physical attributes related to appearance.  However, males are more present in action movies explaining the stronger appearance with words like "fire", and "grab". 
+The adjectives that represent females in movie summaries change towards the periods. Females are the most present in romance movies and some remarkable adjectives used for females are "beautiful", "young" and "married", we can see them in the word clouds with large fonts in several periods, especially for the last ones. This shows us females are still represented with the physical attributes related to appearance.  However, males are more present in action movies explaining the stronger appearance with words like "fire", and "grab".
 
+
+# Conclusion
+
+<div style="text-align: justify;">
+From our analysis in the overview, the summaries and this page, we can see that women are represented in movies in a very different way than men. Women are significantly underrepresented over all movies and appear most often in romantic movies, playing character types such as "dumb blonde" and "brainless beauty". There are also on average younger than the men. 
+</div>
