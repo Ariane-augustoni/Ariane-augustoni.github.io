@@ -61,5 +61,5 @@ From our analysis in the overview, the summaries and this page, we can see that 
 </div>
 
 <div style="text-align: justify;">
-Are you curious to learn about the ethical considerations that were taken into account during this project? You can read about them [here](/Women_and_movies/ethics/).
+    Are you curious to learn about the ethical considerations taken into account while performing this project? You can read about them <a href="/Women_and_movies/ethics/">here</a>.
 </div>
