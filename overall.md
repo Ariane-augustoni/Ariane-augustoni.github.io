@@ -34,7 +34,7 @@ Next, we wanted to know if the genre has an impact on that. How are women repres
 
 # Women playing different character types
 
-We were further interested which character types women play most often in the movies. We can see that women are most prevalent in the character types "dumb blonde" and "brainless beauty". We can also see that there is a big disproportionality in the number of character types for men and for women. This can partly be explained by the surplus of data on men than on women, but it also hints that there might be fewer "boxes" for female characters to fit in, they are portrayed more stereotypically and there is less variety in how they are written. Either way, the effect of character types on gender is significant, we performed a chi-square test and got a p-value of 5.59e-42. 
+We were further interested which character types women play most often in the movies. We can see that women are most prevalent in the character types "dumb blonde" and "brainless beauty". We can also see that there is a big disproportionality in the number of character types for men and for women. This can partly be explained by the surplus of data on men than on women. But it might also hint at the fact that there are fewer "boxes" for female characters to fit in, they are portrayed more stereotypically and there is less variety in how they are written. Either way, the effect of character types on gender is significant, we performed a chi-square test and got a p-value of 5.59e-42. 
 
 
 {% include types_wholeplot.html %}
