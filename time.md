@@ -23,7 +23,7 @@ There is not a significant change in the female characters over decades. Female 
 {% include Gender_character_count_5years.html %}
 
 <div style="text-align: justify;">
-As we can see, the number of female characters in summaries reached its peak at 62.96% in 1900-1905. When we searched this time period we learned that during the 1910s, women's increasing involvement in the film industry as actors, screenwriters, theater managers, film producers, and directors paralleled the increasing number of women in American workplaces and also vocal and energetic women's suffrage movement effort. The increase in the number of female chacaters in movie summary can be related to this historical movements.
+As we can see, the number of female characters in summaries reached its peak at 52.9% in 1910-1915. When we searched this time period we learned that during the 1910s, women's increasing involvement in the film industry as actors, screenwriters, theater managers, film producers, and directors paralleled the increasing number of women in American workplaces and also vocal and energetic women's suffrage movement effort. The increase in the number of female characters in the movie summary can be related to this historical movements.
 </div>
 
 [Source](https://www.theatlantic.com/entertainment/archive/2016/03/the-forgotten-female-action-stars-of-the-1910s/475635/)
