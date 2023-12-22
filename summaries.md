@@ -14,13 +14,18 @@ The following two word clouds show adjectives associated with women and associat
 
 ![Adjectives with differences](figures/wordcloud_adjective_50.png)
 
-The two barplots below depict the same information as the word cloud above, but they show in more detail how large the differences between men and women are for the words. 
+The two barplots below depict the same information as the word cloud above, but they show in more detail how large the differences between men and women are for each of the words. 
 {% include female_words_bar.html %}
 
 {% include male_words_bar.html %}
+
+
+# Sentiment analysis
+To be completed...
+
 # Jobs analysis
 When looking at which jobs vary the most between women and men in movies, we can find similar results as with the adjectives above. Women are mostly doing graceful and artsy jobs, such as  dancer or painter, while men are more prone to have jobs related to conflict and authority, such as deputy or general. 
 
 
 ![Occupation that are most different between men and women](figures/wordcloud_occupations.png)
-# Sentiment analysis
+
