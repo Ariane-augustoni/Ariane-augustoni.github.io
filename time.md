@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evolution of Females in Movies
-cover-img: /assets/img/elizabeth.jpg
+cover-img: /assets/img/monalisasmile.jpg
 subtitle:  
 ---
 
