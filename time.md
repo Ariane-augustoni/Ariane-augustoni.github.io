@@ -47,7 +47,9 @@ Now, we can see that female protagonists in movie summaries also have not evolve
 
 We have already learned a lot from the data. Movie summaries showed us that females' appearance in movies as both characters and protagonists has not changed significantly. Female characters and protagonists' appearance were always less than the males in movies.
 
-Now that we know females are less involved than men in movies, we will ask the last part of our question: How have the adjectives representing women changed over time? To answer this question we will look at the change of adjectives that is used more for females than males.
+Now that we know females are less involved than men in movies, we will ask the last part of our question: How have the adjectives representing women changed over time? To answer this question we will look at the change of adjectives that is used more for females than males over time.
 
 ![Wordcloud](/assets/img/wordcoudsfinal.gif)
+
+The adjectives that represent females in movie summaries change towards the periods. Some remarkable adjectives used for females are "beautiful", "young" and "married", we can see them in the word clouds with large fonts in several periods, especially for the last ones. This shows us females are still represented with the physical attributes related to appearance.  
 
