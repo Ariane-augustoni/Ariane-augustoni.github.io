@@ -49,5 +49,5 @@ We have already learned a lot from the data. Movie summaries showed us that fema
 
 Now that we know females are less involved than men in movies, we will ask the last part of our question: How have the adjectives representing women changed over time? To answer this question we will look at the change of adjectives that is used more for females than males.
 
-![Wordcloud](/assets/images/855.gif)
+![Wordcloud](/assets/img/855.gif)
 
