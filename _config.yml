@@ -24,6 +24,7 @@ navbar-links:
   Overview: "overall"
   Summaries: "summaries"
   Evolution over time: "time"
+  Ethics: "Ethics"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - CMU movie dataset: "https://www.cs.cmu.edu/~ark/personas/"
