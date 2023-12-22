@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethical Considerations
-cover-img: /assets/img/ethics_image.jpg
+cover-img: /assets/img/ethics_image.png
 subtitle:
 ---
 <div style="text-align: justify;">
