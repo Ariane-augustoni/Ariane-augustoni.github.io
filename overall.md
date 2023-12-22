@@ -40,6 +40,7 @@ We were further interested which character types women play most often in the mo
 {% include types_wholeplot.html %}
 
 
-
+Do you want to know more about with which adjectives male and female characters are described, which sentiments are linked to them, and what jobs they usually have in movies? You can find all that and more here. (add summaries link)
+[Click here to learn more about summaries](/summaries.html)
 
 
