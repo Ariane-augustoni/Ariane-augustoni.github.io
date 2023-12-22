@@ -2,7 +2,7 @@
 layout: page
 title: Ethical Considerations
 cover-img: /assets/img/ethics_image.jpg
-subtitle: Analysis of the words in the summaries of the movie dataset
+subtitle:
 ---
 <div style="text-align: justify;">
 As working with data can potentially have negative impacts on people, societies and/or the environment, we think it is crucial to address ethical considerations regarding our project. In following, we will take a closer look into the ethical risks and mitigations of our project using the categories proposed in the [Digital Ethics Canvas 2023](https://docs.google.com/document/d/1lhGV_xJiiuC98it5RB2TiitIBgu0pjUK8qq-8y-wbPw/edit).
