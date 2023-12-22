@@ -10,8 +10,13 @@ Firstly we look at the adjectives the most used to describe women and how differ
 # Adjectives analysis
 
 
-We detected words that are adjectives in our datas
+We detected words that are adjectives in our datasets.
+![Adjectives with differences](figures/wordcloud_adjective_50.png)
 
+{% include female_words_bar.html %}
+
+{% include male_words_bar.html %}
 # Jobs analysis
 
+![Occupation that are most different between men and women](figures/wordcloud_occupations.png)
 # Sentimental analysis
