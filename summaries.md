@@ -67,19 +67,20 @@ Gender difference in positive sentiment scores:
 
 <div style="text-align: justify;">
 We notice that women have a higher score. A t-test to check if those difference were significant was made and effectively it is significant !
-Let's now look at the negative score 
 </div>
 
-{% include pos_and_gender.html %}
+Let's now look at the negative score :
+
+{% include neg_and_gender.html %}
 
 And the neutral score :
 
 {% include neu_and_gender.html %}
 
-<div style="text-align: justify;">
+
 In both case men have a statistically significant higher score than women. 
 We have thus shown using the words in the summaries of the movies that women are described differently than men in those movies. 
 But do this depiction evolve over time ?  You can find out more about this [here](/Women_and_movies/time/).
-</div>
+
 
 
